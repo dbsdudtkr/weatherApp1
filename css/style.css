@@ -50,6 +50,6 @@ h1,h2,h3,h4,h5,h6,p{margin: 0;}
     #weather ul li{width: calc(50% - 20px);}
 }
 @media (max-width:567px){
-    #weather ul li{width: calc(50% - 20px);}
+    #weather ul li{width: calc(100% - 20px);}
     .search{width: 320px;}
 }
